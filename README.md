@@ -14,10 +14,22 @@ Configuramos las funciones de los pulsos PWM.
 Generamos el **loop while** que le da el funcionamiento a todo el programa.
 
 ### Programa en Proteus
-The background color is `#ffffff` for light mode and `#000000` for dark mode.
-`rgb(9, 105, 218) HOLA MANITO 123456`
+El diagrama en Proteus es intuitivo si seguimos el código. Lo elementos que usamos son los siguientes: 
+* Transistor 2N2222A
+* Diodos 4747A
+* Fuente de alimentación de circuito de 24 V.
+* Osciloscopio _Para ver comportamiento de las señales de salida del PIC_
+* LCD con conexiones y Resistencia Variable
+* Bonotes _para cambio de giro_
+* **PIC 18F4550**
+
+En el siguiente link podemos encontrar un video del funcionamiento del proyecto terminado. [Link del video en Youtube][https://youtu.be/pNNG_kJ-Nqg]
 
 
+
+For more information please contact [^1] 🐺
+
+[^1]: Iván Durán, ivan_hds11@hotmail.com
 
 
 
