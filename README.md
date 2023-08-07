@@ -23,7 +23,7 @@ El diagrama en Proteus es intuitivo si seguimos el código. Lo elementos que usa
 * Bonotes _para cambio de giro_
 * **PIC 18F4550**
 
-En el siguiente link podemos encontrar un video del funcionamiento del proyecto terminado. [Link del video en Youtube][https://youtu.be/pNNG_kJ-Nqg]
+En el siguiente link podemos encontrar un video del funcionamiento del proyecto terminado. [Link del video en Youtube](https://youtu.be/pNNG_kJ-Nqg)
 
 
 
