@@ -13,5 +13,11 @@ Configuramos las funciones de los pulsos PWM.
 
 Generamos el **loop while** que le da el funcionamiento a todo el programa.
 
+### Programa en Proteus
+The background color is `#ffffff` for light mode and `#000000` for dark mode.
+`rgb(9, 105, 218) HOLA MANITO 123456`
+
+
+
 
 
